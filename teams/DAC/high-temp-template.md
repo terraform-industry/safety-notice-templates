@@ -2,7 +2,7 @@
 
 🚨 **[DEPARTMENT] | [PROCESS NAME] | [HAZARD TYPE] | Start: [DAY, DATE TIME] | End: [OPTIONAL END TIME]** 🚨
 
-## � SAFETY NOTICE �
+##  ⚠️ SAFETY NOTICE ⚠️
 
 **[PROJECT/EQUIPMENT NAME] HIGH TEMPERATURE TESTING IN PROGRESS**  
 **From: [START DATE/TIME] - Until: [END DATE/TIME OR "FURTHER NOTICE"]**  
@@ -12,7 +12,7 @@
 
 High temperature tests will be conducted in [LOCATION] using the [EQUIPMENT NAME AND MODEL].
 
-## =� POTENTIAL HAZARDS
+## ⚠️ POTENTIAL HAZARDS
 
 ### EXTREME HIGH TEMPERATURES
 - Equipment will generate temperatures capable of causing severe burns
@@ -30,7 +30,7 @@ High temperature tests will be conducted in [LOCATION] using the [EQUIPMENT NAME
 - Restricted visibility due to heat distortion
 - [ADDITIONAL PROJECT-SPECIFIC RISKS]
 
-## =� SAFETY REQUIREMENTS
+## ⚠️ SAFETY REQUIREMENTS
 
 - **AUTHORIZED PERSONNEL ONLY** in designated testing area
 - Maintain minimum **[X]-meter safety perimeter** unless specifically authorized
@@ -39,7 +39,7 @@ High temperature tests will be conducted in [LOCATION] using the [EQUIPMENT NAME
 - Fire suppression equipment staged and ready
 - [ADDITIONAL PROJECT-SPECIFIC REQUIREMENTS]
 
-## =� SAFETY & RESPONSIBLE PARTY CONTACTS
+## ⚠️ SAFETY & RESPONSIBLE PARTY CONTACTS
 
 **Site Safety Officer**: [NAME] @[CONTACT]  
 **Primary Operator**: [NAME] @[CONTACT]  
@@ -51,5 +51,5 @@ Testing will continue until further notice. All personnel must comply with poste
 
 ---
 
-*Template Version: 1.0*  
+*Template Version: 1.1*  
 *Last Updated: [DATE]*
